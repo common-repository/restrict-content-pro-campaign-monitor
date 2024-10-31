@@ -1,0 +1,4 @@
+1.2.2 - 2021-09-14 - Jared Hill
+	Added new updater.
+1.2.3 - 2021-09-14 - Jared Hill
+    Version Bump

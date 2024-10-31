@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Restrict Content Pro - Campaign Monitor\n"
+"POT-Creation-Date: 2018-05-22 14:53-0000\n"
+"PO-Revision-Date: 2018-05-22 14:53-0000\n"
+"Last-Translator: Restrict Content Pro Team <support@restrictcontentpro.com>\n"
+"Language-Team: Restrict Content Pro Team <support@restrictcontentpro.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rcp-campaign-monitor.php:40
+msgid "Restrict Content Pro Campaign Monitor Settings"
+msgstr ""
+
+#: rcp-campaign-monitor.php:40
+msgid "Campaign Monitor"
+msgstr ""
+
+#: rcp-campaign-monitor.php:57
+msgid "Campaign Monitor Settings"
+msgstr ""
+
+#: rcp-campaign-monitor.php:66 rcp-campaign-monitor.php:73
+msgid "API Key"
+msgstr ""
+
+#: rcp-campaign-monitor.php:72
+msgid ""
+"Enter your Campaign Monitor API key to enable a newsletter signup option "
+"with the registration form."
+msgstr ""
+
+#: rcp-campaign-monitor.php:79 rcp-campaign-monitor.php:86
+msgid "Client ID"
+msgstr ""
+
+#: rcp-campaign-monitor.php:85
+msgid ""
+"Enter the ID of the client to use. The ID can be found in the Client "
+"Settings page of the client."
+msgstr ""
+
+#: rcp-campaign-monitor.php:92 rcp-campaign-monitor.php:99
+msgid "List"
+msgstr ""
+
+#: rcp-campaign-monitor.php:98
+msgid "Choose the list to subscribe users to."
+msgstr ""
+
+#: rcp-campaign-monitor.php:105 rcp-campaign-monitor.php:112
+msgid "Form Label"
+msgstr ""
+
+#: rcp-campaign-monitor.php:111
+msgid "Enter the label to be shown on the \"Signup for Newsletter\" checkbox"
+msgstr ""
+
+#: rcp-campaign-monitor.php:118 rcp-campaign-monitor.php:125
+msgid "Opt-In Checkbox Default State"
+msgstr ""
+
+#: rcp-campaign-monitor.php:124
+msgid ""
+"Choose whether you want the opt-in on the registration form checked or "
+"unchecked by default."
+msgstr ""
+
+#: rcp-campaign-monitor.php:127
+msgid "Checked"
+msgstr ""
+
+#: rcp-campaign-monitor.php:128
+msgid "Unchecked"
+msgstr ""
+
+#: rcp-campaign-monitor.php:147
+msgid "Configure the settings below"
+msgstr ""
+
+#: rcp-campaign-monitor.php:215
+msgid "Save Options"
+msgstr ""
+
+#: rcp-campaign-monitor.php:255
+msgid "No Campaign Monitor lists found"
+msgstr ""
+
+#: rcp-campaign-monitor.php:266
+msgid "Enter your API key and Client ID above"
+msgstr ""
+
+#: rcp-campaign-monitor.php:389
+msgid "Newsletter Signup"
+msgstr ""
+
+#: rcp-campaign-monitor.php:406
+msgid "yes"
+msgstr ""
+
+#: rcp-campaign-monitor.php:408
+msgid "no"
+msgstr ""
